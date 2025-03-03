@@ -1,0 +1,10 @@
+2. Lexicon
+a set of the word 
+
+EXAMPLE 
+
+To be or not to be <---- corpus (or corporus) idk how it's called rofl
+L (lexicon) = {to, be, or, not} <--- words are the element of this 
+# Tokens = 6 -> INSTANCES of words 
+# Words/types = 4 --> Elements of le lexicon 
+What i
