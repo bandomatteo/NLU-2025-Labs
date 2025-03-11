@@ -1,0 +1,40 @@
+
+-----------------------------------------   Section 2.1
+                pos      neg
+            pos TP = 5  FP = 1
+            neg FN = 5  TN = 99
+
+Aint' good, so we cannot just trust the ACCURACY, indeed, we are gonna introduce RECALL and PRECISION
+
+- RECALL = TP / (TP+FN) = 5/10 = 1/2 = 0.5%
+- PRECISION = TP / (TP+FP) = 5/6 = 0.8% --> We can use this for checking 
+
+------ EXAMPLE ------
+BANK 
+
+
+------
+
+
+With Macro-Precision when we want high performance
+Weighted-Precison = When I want to give different weights to the clsses , but he aint exlained about the micro Precison
+Micro F1 (or macro? ----> I need to check) in multiclass classification is like ACCURACY
+
+--- DOMANDA ESAME
+>Bombe, dovrei tipo massimizzare il recall o precision? -- Sapere in modo deep
+
+
+
+---- 4.2
+
+TF * IDF  = TF / DF 
+
+Document 1 = the
+Document 2 = the click
+Document 3 = the
+Document 4 = the 
+
+We're analyzing the Document 2 :
+Out of 100 words, 50 are "the", so
+TF_the = 0.5
+TF_click = 0.1
