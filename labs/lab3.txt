@@ -16,3 +16,16 @@ DOMANDA --> PERCHE' USIAMO <s> e </s>?
 ### 2. VOCABULARY AND BASIC USAGE
 
 Look image lab3_0 VOCABULARY
+
+#### 4.3
+"The answer is 42"
+We want the probability of this sequence, which is given by p1 * p2 * p3 = p (PERCHE' SOLO p1 p2 p3? E non p4??)
+
+Instead, we use PP (Perplexity)
+
+---
+Can we compare |V1| = 100
+               |V2| = 3
+               |V3| = 100
+
+I can't compare V1 with V2 but I can't even compare V1 with V3 
