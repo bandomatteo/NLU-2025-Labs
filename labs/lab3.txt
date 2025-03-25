@@ -28,4 +28,6 @@ Can we compare |V1| = 100
                |V2| = 3
                |V3| = 100
 
-I can't compare V1 with V2 but I can't even compare V1 with V3 
+I can't compare V1 with V2 but I can't even compare V1 with V3 perchè hanno termini diversi
+
+Dentro al VOCABULARY c'è anche <s> </s>
